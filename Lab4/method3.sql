@@ -1,0 +1,1 @@
+SELECT p.SSN, p.Name FROM Persons p WHERE p.SSN = 631952071;
